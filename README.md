@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Mern Stack or AI related Technologies**
 
-- 👨‍💻 All of my projects are available at [(https://app.netlify.com/teams/fizamughal/sites)]
+- 👨‍💻 All of my projects are available at (https://app.netlify.com/teams/fizamughal/sites)
 
 - 📝 I regularly write articles on [https://medium.com/@fizamuneer0101](https://medium.com/@fizamuneer0101)
 
