@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Mern Stack or AI related Technologies**
 
-- 👨‍💻 All of my projects are available at https://app.netlify.com/teams/fizamughal/sites
+- 👨‍💻 All of my projects are available at [https://portfoliobyfm.netlify.app/](https://portfoliobyfm.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@fizamuneer0101](https://medium.com/@fizamuneer0101)
 
@@ -32,8 +32,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fiza muneer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fiza muneer" height="30" width="40" /></a>
+<a href="https://instagram.com/mernstackdeveloper_fiza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mernstackdeveloper_fiza" height="30" width="40" /></a>
 <a href="https://medium.com/@fizamuneer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fizamuneer" height="30" width="40" /></a>
-<a href ="https://www.instagram.com/mernstackdeveloper_fiza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Instagram-alt.svg" alt="fiza muneer" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
